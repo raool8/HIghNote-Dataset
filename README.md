@@ -1,0 +1,1 @@
+This dataset was obtained as part of coursework under MIT Management Executive Education. 
